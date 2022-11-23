@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python, AWS/Cloud, Bash, SQL
+I'm currently learning Terraform, Docker, Python, AWS/Cloud, Bash, SQL
 
 
 ## 🌐 Socials:
