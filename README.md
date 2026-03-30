@@ -16,6 +16,5 @@
 - 👋 Hi, I’m @weikang22
 - 👀 I’m interested in Cloud Engineering! 
 - 🌱 I’m currently learning Docker/Terraform
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me - LinkedIn
 
