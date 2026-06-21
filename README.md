@@ -38,7 +38,7 @@ Each project includes documentation so I can demonstrate the setup and the reaso
 
 My goal is to move into a Cloud Support Engineer or Cloud Infrastructure role where I can combine troubleshooting experience with cloud engineering skills and continue developing in AWS environments.
 
-# 📫 Connect with me
+# Connect with me
 
 - GitHub: https://github.com/weikang22  
 - LinkedIn: https://www.linkedin.com/in/weikangsu/
