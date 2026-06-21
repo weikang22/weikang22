@@ -1,20 +1,52 @@
-# 💫 About Me:
+# About Me 👋
 
+Hi, I’m Weikang - an IT Support professional transitioning into Cloud Engineering.
 
+I currently work in IT support and have hands-on experience troubleshooting systems, supporting users, and maintaining IT infrastructure. Alongside this, I am actively building my cloud engineering skills through AWS certifications and self-hosted projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weikangsu) 
+I hold:
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Cloud Practitioner  
+- AWS re/Start Graduate  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=weikang22&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=weikang22&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weikang22&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
+# What I’m Focused On
 
-- 👋 Hi, I’m @weikang22
-- 👀 I’m interested in Cloud Engineering! 
-- 🌱 I’m currently learning Docker/Terraform
-- 📫 How to reach me - LinkedIn
+I’m currently developing practical skills in:
+- AWS (core services, architecture, networking)
+- Linux system administration
+- Docker and containerisation
+- Networking fundamentals
+- Cloud infrastructure and automation concepts
 
+I’m particularly interested in how cloud systems are designed, deployed, and operated at scale.
+
+---
+
+# Projects
+
+I use GitHub to document and build hands-on infrastructure projects, including:
+
+- Self-hosted services using Docker  
+- Linux-based server setups
+- Networking and remote access configurations (e.g. tunnels, reverse proxies)  
+<!--
+- Cloud-connected applications and services  
+- Monitoring and system reliability tools  
+-->
+
+Each project includes documentation so I can demonstrate the setup and the reasoning behind it.
+
+---
+
+# Career Goal
+
+My goal is to move into a Cloud Support Engineer or Cloud Infrastructure role where I can combine troubleshooting experience with cloud engineering skills and continue developing in AWS environments.
+
+---
+
+# 📫 Connect with me
+
+- GitHub: https://github.com/weikang22  
+- LinkedIn: https://www.linkedin.com/in/weikangsu/
