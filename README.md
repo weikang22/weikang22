@@ -9,8 +9,6 @@ I hold:
 - AWS Certified Cloud Practitioner  
 - AWS re/Start Graduate  
 
----
-
 # What I’m Focused On
 
 I’m currently developing practical skills in:
@@ -21,8 +19,6 @@ I’m currently developing practical skills in:
 - Cloud infrastructure and automation concepts
 
 I’m particularly interested in how cloud systems are designed, deployed, and operated at scale.
-
----
 
 # Projects
 
@@ -38,13 +34,9 @@ I use GitHub to document and build hands-on infrastructure projects, including:
 
 Each project includes documentation so I can demonstrate the setup and the reasoning behind it.
 
----
-
 # Career Goal
 
 My goal is to move into a Cloud Support Engineer or Cloud Infrastructure role where I can combine troubleshooting experience with cloud engineering skills and continue developing in AWS environments.
-
----
 
 # 📫 Connect with me
 
