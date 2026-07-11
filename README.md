@@ -1,10 +1,10 @@
-# About Me 👋
+# About Me
 
-Hi, I’m Weikang - an IT Support professional transitioning into Cloud Engineering.
+Hi, I’m Weikang - I’m an AWS-certified IT professional transitioning from IT support into Cloud and DevOps Engineering.
 
-I currently work in IT support and have hands-on experience troubleshooting systems, supporting users, and maintaining IT infrastructure. Alongside this, I am actively building my cloud engineering skills through AWS certifications and self-hosted projects.
+I currently provide user-focused 1st-line IT support, troubleshooting incidents, administering users and devices, documenting resolutions and developing PowerShell automations. Alongside my role, I build hands-on AWS and self-hosted infrastructure projects using Terraform, Docker, Linux and Bash.
 
-I hold:
+# Certifications:
 - AWS Certified Solutions Architect – Associate  
 - AWS Certified Cloud Practitioner  
 - AWS re/Start Graduate  
@@ -12,13 +12,12 @@ I hold:
 # What I’m Focused On
 
 I’m currently developing practical skills in:
-- AWS (core services, architecture, networking)
-- Linux system administration
-- Docker and containerisation
+- AWS (core services, architecture, infrastructure, networking)
+- Terraform and infrastructure as code
+- Linux administration and Bash automation
+- Docker
 - Networking fundamentals
-- Cloud infrastructure and automation concepts
-
-I’m particularly interested in how cloud systems are designed, deployed, and operated at scale.
+- Git and Github
 
 # Projects
 
@@ -26,19 +25,27 @@ I use GitHub to document and build hands-on infrastructure projects, including:
 
 - Self-hosted services using Docker  
 - Linux-based server setups
-- Networking and remote access configurations (e.g. tunnels, reverse proxies)  
+- Networking and remote access configurations (e.g. tunnels, reverse proxies)
+- Terraform AWS resource deployment
 <!--
 - Cloud-connected applications and services  
 - Monitoring and system reliability tools  
 -->
 
-Each project includes documentation so I can demonstrate the setup and the reasoning behind it.
+# Current Focus
+
+I’m currently developing further practical experience with:
+
+- CI/CD pipelines using GitHub Actions
+- Amazon ECR and ECS
+- AWS Secrets Manager
+- Terraform remote state and reusable modules
+- Cloud monitoring and logging
 
 # Career Goal
 
-My goal is to move into a Cloud Support Engineer or Cloud Infrastructure role where I can combine troubleshooting experience with cloud engineering skills and continue developing in AWS environments.
+I’m working towards an AWS DevOps, Cloud Support or Cloud Infrastructure role where I can combine my operational support experience with cloud engineering, infrastructure automation and troubleshooting skills.
 
 # Connect with me
 
-- GitHub: https://github.com/weikang22  
 - LinkedIn: https://www.linkedin.com/in/weikangsu/
