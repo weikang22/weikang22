@@ -1,8 +1,10 @@
 # About Me
 
-Hi, I’m Weikang - I’m an AWS-certified IT professional transitioning from IT support into Cloud and DevOps Engineering.
+Hi, I’m Weikang — an AWS-certified IT professional with hands-on experience across IT support, cloud infrastructure and automation.
 
-I currently provide user-focused 1st-line IT support, troubleshooting incidents, administering users and devices, documenting resolutions and developing PowerShell automations. Alongside my role, I build hands-on AWS and self-hosted infrastructure projects using Terraform, Docker, Linux and Bash.
+I currently provide user-focused 1st-line IT support, troubleshooting incidents, administering users and devices, supporting Microsoft 365, Active Directory, Entra ID and Intune, documenting resolutions and developing PowerShell automations. Alongside my role, I build AWS and self-hosted infrastructure projects using Terraform, Docker, Linux and Bash, with a focus on automation, networking and troubleshooting.
+
+I’m particularly interested in opportunities across Cloud Support, Infrastructure and DevOps, while continuing to build on my IT operations experience.
 
 # Certifications:
 - AWS Certified Solutions Architect – Associate  
